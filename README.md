@@ -2,7 +2,7 @@
 
 Predicting house prices using Linear Regression methodes.
 
-##Software and Libraries
+## Software and Libraries
 
 Template code is provided in the notebook house-price-regression.ipynb
 
